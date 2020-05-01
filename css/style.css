@@ -1468,9 +1468,9 @@ h3 {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url(../img/about/scofi-01.png);
-  width: 620px;
-  height: 699px;
+  background-image: url(../img/about/scofi-04.png);
+  width: 562px;
+  height: 733px;
   content: '';
 }
 
@@ -1574,9 +1574,9 @@ h3 {
 
 /* line 141, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
-  color: #FFF;
+  color: rgb(8, 8, 8);
   font-family: "Muli", sans-serif;
-  font-size: 80px;
+  font-size: 70px;
   text-transform: capitalize;
   font-weight: 700;
   line-height: 82px;
@@ -1638,7 +1638,7 @@ h3 {
 .slider_area .single_slider .slider_text span {
   font-size: 30px;
   font-weight: 400;
-  color: #FFFFFF;
+  color: rgb(8, 8, 8);
   position: relative;
   z-index: 1;
 }
@@ -1646,7 +1646,7 @@ h3 {
 /* line 186, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text span::before {
   position: absolute;
-  background: #fff;
+  background: rgb(0, 0, 0);
   width: 50px;
   height: 2px;
   content: '';
